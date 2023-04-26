@@ -1,0 +1,27 @@
+html {
+  background-size: cover;
+}
+body {
+  background: rgba(255, 255, 255, 0.7);
+  width: 500px;
+  margin: 80px auto;
+  padding: 25px 80px;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#imgbtn {
+  width: 500px;
+  cursor: pointer;
+}
+input {
+  width: 500px;
+  height: 25px;
+  color: green;
+}
+#answer {
+  font-size: 16px;
+  font-weight: bold;
+}
+#output {
+  color: green;
+}
